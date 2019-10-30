@@ -46,9 +46,9 @@ const Dashboard = (props) => {
         <TableBody>
             <TableRow>
                 <TableCell align="left">HomeSlice Pizza</TableCell>
-                <TableCell align="left">HomeSlice Pizza</TableCell>
-                <TableCell align="left">HomeSlice Pizza</TableCell>
-                <TableCell align="left">HomeSlice Pizza</TableCell>
+                <TableCell align="left">HomeSlice Pizza is an independent neighborhood pizza joint serving authentic NY-styled pizza- by the pie or by the slice- to nice people like you. We offer our homemade, hand tossed, bona fide pies for either dine in or carry out. </TableCell>
+                <TableCell align="left">11AM - 11PM</TableCell>
+                <TableCell align="left">1415 S Congress Ave, Austin TX, 78704</TableCell>
             </TableRow>
         </TableBody>
         </Table>
