@@ -50,6 +50,31 @@ const Dashboard = (props) => {
                 <TableCell align="left">11AM - 11PM</TableCell>
                 <TableCell align="left">1415 S Congress Ave, Austin TX, 78704</TableCell>
             </TableRow>
+            <TableRow>
+                <TableCell align="left">Joe's Coffee</TableCell>
+                <TableCell align="left">Stumptown Coffee, Baked goods & sandwiches in colorful digs with outdoor area for people-watching.</TableCell>
+                <TableCell align="left">7AM - 9PM</TableCell>
+                <TableCell align="left">242 W 2nd St, Austin TX, 78701</TableCell>
+            </TableRow>
+            <TableRow>
+                <TableCell align="left">The Brass Tap</TableCell>
+                <TableCell align="left">Festive pub with a patio offering myriad beer options, wine & TVs tuned to sports plus live music.</TableCell>
+                <TableCell align="left">11AM - 2AM</TableCell>
+                <TableCell align="left">10910 Domain Dr, Austin, TX 78758</TableCell>
+            </TableRow>
+            <TableRow>
+                <TableCell align="left">IPIC Austin</TableCell>
+                <TableCell align="left">Upscale cinema chain with plush seating, gourmet light bites & cocktails, plus in-theater service.</TableCell>
+                <TableCell align="left">11AM - 1AM</TableCell>
+                <TableCell align="left">3225 Amy Donovan Plaza, Austin, TX 78758</TableCell>
+            </TableRow>
+            <TableRow>
+                <TableCell align="left">Gloria's Latin Cuisine</TableCell>
+                <TableCell align="left">Family-friendly chain featuring Salvadoran & Tex-Mex favorites, plus mojitos & margaritas.</TableCell>
+                <TableCell align="left">11AM - 10PM</TableCell>
+                <TableCell align="left">3309 Esperanza Crossing Suite #100, Austin, TX 78758</TableCell>
+            </TableRow>
+           
         </TableBody>
         </Table>
      </div>
